@@ -1,0 +1,18 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "9d760aa0-6af9-4e98-aa75-67e1d5cefd96": {
+      "name": "Portfolio Creator (Clone)",
+      "id": "9d760aa0-6af9-4e98-aa75-67e1d5cefd96",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root",
+    "b00263fb-b7bf-4cfd-968a-24cc7ea25ce8": "9d760aa0-6af9-4e98-aa75-67e1d5cefd96"
+  }
+}

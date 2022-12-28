@@ -1,0 +1,10 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "b00263fb-b7bf-4cfd-968a-24cc7ea25ce8": {
+    "name": "navigation bar",
+    "route": "/Portfolio Creator (Clone)/navigation bar"
+  }
+}

@@ -1,0 +1,46 @@
+.p-Home .about a,
+.p-Home .services a,
+.p-Home .project a,
+.p-Home .blog a,
+.p-Home .bookcall a,
+.p-Home.cover_download_link a {
+    text-decoration: none;
+    color: black;
+}
+
+.p-Home.bold__text1 {
+    letter-spacing: -5px;
+    display: inline;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.bold_text2 {
+    letter-spacing: -4px;
+}
+
+.p-Home .back_btn,
+.p-Home.project_back_btn {
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+}
+
+.p-Home.top_service_textbox,
+.p-Home.project_txt {
+    display: inline;
+    letter-spacing: 3px;
+    background-image: linear-gradient(108deg, #b16cea 8%, #ff5e69 40%, #ff8a56 77%, #ffa84b 91%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.p-Home.Flex338 {
+    margin-top: -238px;
+    padding-top: 200px;
+    z-index: -1;
+
+}
+
+
+
